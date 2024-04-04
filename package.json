@@ -1,21 +1,21 @@
 {
-  "name": "teamproject02",
+  "name": "teamproject02-sample",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ardevazsign.github.io/teamproject02",
+  "homepage": "https://wackytsui.github.io/teamproject02-sample",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /teamproject02/"
+    "build": "parcel build src/*.html --public-url /teamproject02-sample/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ardevazsign/teamproject02"
+    "url": "git+https://github.com/wackytsui/teamproject02-sample"
   },
   "keywords": [],
-  "author": "owen saavedra <newojunior@gmail.com>",
+  "author": "mark allan altavano <allan.altavano@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ardevazsign/teamproject02"
+    "url": "https://github.com/wackytsui/teamproject02-sample"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
